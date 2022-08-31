@@ -157,7 +157,7 @@ footer {
   .section-2 .rating {
     display: flex;
     align-items: center;
-    width: 80%;
+    width: 75%;
     height: 3.5rem;
     padding-left: 2rem;
   }
