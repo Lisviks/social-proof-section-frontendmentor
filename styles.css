@@ -7,6 +7,11 @@
 }
 
 body {
+  background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
+  background-position: left -185px top -236px, right 10px bottom -300px;
+  background-repeat: no-repeat, no-repeat;
+  background-attachment: fixed, fixed;
+  background-size: contain, contain;
   font-family: 'League Spartan', sans-serif;
 }
 
